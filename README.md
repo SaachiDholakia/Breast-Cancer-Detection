@@ -14,10 +14,10 @@ This repository contains the code and documentation for the final year project o
 Breast cancer is a significant health concern, and early detection is crucial for effective treatment. This project utilizes the MIAS Mammography dataset to develop a machine learning model capable of identifying abnormalities in mammographic images. The project focuses on preprocessing the data, building a convolutional neural network (CNN), training the model, and evaluating its performance.
 
 ## Team Members
-Saachi Dholakia
-Ayush Gupta
-Pranab Mehrishi
-Kashish Shah
+* Saachi Dholakia
+* Ayush Gupta
+* Pranab Mehrishi
+* Kashish Shah
 
 ## Dataset
 The MIAS Mammography dataset is provided by the Mammographic Image Analysis Society (MIAS). It includes mammographic images categorized by different types of abnormalities, such as calcifications, masses, and architectural distortions.
